@@ -17,3 +17,7 @@ I reiterate the following from the System.nanoTime documentation:
 See also:
 
 [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+
+Admiral Grace Hopper Explains the Nanosecond
+
+[![Admiral Grace Hopper Explains the Nanosecond](http://img.youtube.com/vi/9eyFDBPk4Yw/0.jpg)](http://www.youtube.com/watch?v=9eyFDBPk4Yw "Admiral Grace Hopper Explains the Nanosecond")
